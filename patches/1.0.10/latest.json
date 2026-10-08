@@ -1,9 +1,9 @@
 {
   "appVersion": "1.0.10",
-  "patchNumber": 202610080624,
-  "file": "patch-202610080624.json.gz",
-  "sha256": "af3c12a5723fdf26566fcb229329818bce40dc17dd468d17f1476229c5208bc3",
-  "size": 1209063,
-  "files": 186,
-  "signature": "ZdpGf5UO+Sl98c/RT5lpziWmBdjkeCxb1bxbPwswNk1wZIg+TXdxdZrp4MzDehniYGObzW6qAuJn4t6TOoVYCQ=="
+  "patchNumber": 202610080729,
+  "file": "patch-202610080729.json.gz",
+  "sha256": "78d8d70e14adb0ef2302b78803876ae17ee50bf1d842a6013b0fb3f782e116ab",
+  "size": 1221593,
+  "files": 187,
+  "signature": "xcx7SsFSJRVXDIW8mh3krw46Uy/3xIKPksfz6EHHo/0kl1i7Avp/BuouK8sI8T30sG/DBoi5FhYPXA47Ng/oCw=="
 }
